@@ -1,0 +1,28 @@
+{
+    "name": "Avalanche",
+    "website": "https://www.avax.network/",
+    "description": "Avalanche is a layer one blockchain that functions as a platform for decentralized applications and custom blockchain networks. It is one of Ethereum’s rivals, aiming to unseat Ethereum as the most popular blockchain for smart contracts. It aims to do so by having a higher transaction output of up to 6,500 transactions per second while not compromising scalability.",
+    "explorer": "https://avascan.info/",
+    "type": "AVA20",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Avax"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.avalabs.org/whitepapers"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/avalanche/"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Optimism",
+    "website": "https://www.optimism.io/",
+    "description": "Optimism (OP) is a layer-two blockchain on top of Ethereum. Optimism benefits from the security of the Ethereum mainnet and helps scale the Ethereum ecosystem by using optimistic rollups. That means transactions are trustlessly recorded on Optimism but ultimately secured on Ethereum.",
+    "explorer": "https://optimistic.etherscan.io",
+    "type": "OP20",
+    "symbol": "ETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/optimismFND"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/ethereum-optimism/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/optimism-ethereum/"
+        }
+    ]
+}

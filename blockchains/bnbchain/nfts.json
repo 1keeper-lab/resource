@@ -1,0 +1,14 @@
+{
+    "deletes":[],
+    "actives":[
+        {
+            "chainId": 56,
+            "type": "BEP721",
+            "address": "0xE3b1D32e43Ce8d658368e2CBFF95D57Ef39Be8a6",
+            "name": "Space ID",
+            "symbol": "ID",
+            "decimals": 1,
+            "logoURI": "https://assets.1keeper.com/blockchains/bnbchain/nft/0xe3b1d32e43ce8d658368e2cbff95d57ef39be8a6/logo.png"
+        }
+    ]
+}

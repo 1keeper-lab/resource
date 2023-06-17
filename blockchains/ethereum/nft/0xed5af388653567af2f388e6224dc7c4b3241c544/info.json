@@ -1,0 +1,28 @@
+{
+    "name": "AZUKI",
+    "website": "https://www.azuki.com",
+    "description": "A brand for the metaverse, built by the community.",
+    "explorer": "https://etherscan.io/token/0xed5af388653567af2f388e6224dc7c4b3241c544",
+    "type": "ERC721",
+    "symbol": "AZUKI",
+    "decimals": 1,
+    "status": "active",
+    "id": "0xed5af388653567af2f388e6224dc7c4b3241c544",
+    "tags": [
+        "metaverse"
+    ],
+    "links": [
+        {
+            "name": "opensea",
+            "url": "https://opensea.io/collection/azuki/"
+        },
+        {
+            "name":"twitter",
+            "url":"https://twitter.com/azukiofficial"
+        },
+        {
+            "name":"discord",
+            "url":"https://discord.gg/azuki"
+        }
+    ]
+}

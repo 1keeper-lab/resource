@@ -1,0 +1,24 @@
+{
+    "name": "Lyra Finance",
+    "website": "https://www.lyra.finance",
+    "description": "Lyra is an options trading protocol accessing the scalability of Layer 2 Ethereum to provide a robust, lightning-fast and reliable trading experience.",
+    "explorer": "https://optimistic.etherscan.io/token/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "type": "OP20",
+    "symbol": "LYRA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/lyrafinance"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/lyra-finance"
+        }
+    ]
+}

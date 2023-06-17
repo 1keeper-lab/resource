@@ -1,0 +1,32 @@
+{
+    "name": "Ethereum",
+    "website": "https://ethereum.org",
+    "description": "Ethereum is a decentralized open-source blockchain system that features its own cryptocurrency, Ether. ETH works as a platform for numerous other cryptocurrencies, as well as for the execution of decentralized smart contracts.",
+    "explorer": "https://etherscan.io/",
+    "type": "ERC20",
+    "symbol": "ETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ethereum/go-ethereum"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ethereum"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ethereum/"
+        }
+    ]
+}

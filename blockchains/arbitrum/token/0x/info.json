@@ -1,0 +1,24 @@
+{
+    "name": "Arbitrum",
+    "website": "https://arbitrum.io/",
+    "description": "Arbitrum is an Ethereum layer-two (L2) scaling solution. It uses optimistic rollups to achieve its goal of improving speed, scalability and cost-efficiency on Ethereum. Arbitrum benefits from the security and compatibility of Ethereum. Another benefit is the higher throughput and lower fees compared to Ethereum. That is made possible thanks to moving most of the computation and storage load off-chain.",
+    "explorer": "https://arbiscan.io",
+    "type": "ARC20",
+    "symbol": "ETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/arbitrum"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/arbitrum/"
+        }
+    ]
+}

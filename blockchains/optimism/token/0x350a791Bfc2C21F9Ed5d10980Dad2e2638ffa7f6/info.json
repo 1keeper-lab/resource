@@ -1,0 +1,28 @@
+{
+    "name": "ChainLink",
+    "website": "https://chain.link/",
+    "description": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
+    "explorer": "https://optimistic.etherscan.io/token/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+    "type": "OP20",
+    "symbol": "LINK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/chainlink"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/chainlink/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/chainlink/"
+        }
+    ]
+}

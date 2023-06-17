@@ -1,0 +1,32 @@
+{
+    "name": "BNBChain",
+    "website": "https://bnbchain.org",
+    "description": "Launched in July 2017, Binance is the biggest cryptocurrency exchange globally based on daily trading volume. Binance aims to bring cryptocurrency exchanges to the forefront of financial activity globally. The idea behind Binance’s name is to show this new paradigm in global finance — Binary Finance, or Binance.",
+    "explorer": "https://bscscan.com",
+    "type": "BEP20",
+    "symbol": "BNB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/bnb-chain"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bnbchain"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/bnbchainofficial"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/bnb/"
+        }
+    ]
+}
