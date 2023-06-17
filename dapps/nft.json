@@ -1,0 +1,14 @@
+{
+    "deletes":[],
+    "actives":[
+        {
+            "name": "Opensea",
+            "intro": "OpenSea is currently the world's largest market for encrypted digital collections",
+            "logo": "https://s2.gongft.com/logo/1/opensea.png",
+            "url": "https://opensea.io/",
+            "networks": "ethereum",
+            "tags": "NFT,HOT",
+            "sorts": "0"
+        }
+    ]
+}

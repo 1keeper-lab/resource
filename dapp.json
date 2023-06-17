@@ -1,0 +1,24 @@
+{
+    "banner":[
+        {
+            "cover": "http://testapi.1keeper.com/banner1.png",
+            "url": "https://1keeper.com",
+            "sorts": "0"
+        },
+        {
+            "cover": "http://testapi.1keeper.com/banner1.png",
+            "url": "https://1keeper.com",
+            "sorts": "1"
+        }
+    ],
+    "tags":{
+        "DEX":{"local":[{"en_US":"DEX"},{"zh_CN":"交易"}],"sorts":"0"},
+        "LEND":{"local":[{"en_US":"LEND"},{"zh_CN":"借贷"}],"sorts":"1"},
+        "NFT":{"local":[{"en_US":"NFT"},{"zh_CN":"藏品"}],"sorts":"2"}
+    },
+    "dapps":[
+        "dex.json?v=1",
+        "lend.json?v=1",
+        "nft.json?v=1"
+    ]
+}
