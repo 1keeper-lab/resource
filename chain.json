@@ -43,7 +43,7 @@
             "symbol": "ETH",
             "decimal": 18,
             "explore": "https://arbiscan.io/",
-            "muticall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696,0x1b5cdd7A88beAbcC427a5139C0F0AAE4562EFb2A",
+            "muticall": "0x4705fE36523514813f4dCA5b76b5C2574CC9747A,0x1b5cdd7A88beAbcC427a5139C0F0AAE4562EFb2A",
             "type": "EVM",
             "token": "ARC20",
             "nft": "ARC721",
