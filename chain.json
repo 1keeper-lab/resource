@@ -1,5 +1,5 @@
 {
-    "version":"1.0.0",
+    "version":"1.0.1",
     "deletes":[],
     "actives":[
         {
@@ -26,7 +26,7 @@
             "symbol": "BNB",
             "decimal": 18,
             "explore": "http://bscscan.com/",
-            "muticall": "0xd8483eA1890Ff53423C9866B12157e36Ebb9165A,0x9E43360857fD4C3B0FF1349915Ff9E5f486C0915",
+            "muticall": "0xd8483eA1890Ff53423C9866B12157e36Ebb9165A,0x2E6a58911b72d01F00D54E29AbC0E9949d29E2D1",
             "type": "EVM",
             "token": "BEP20",
             "nft": "BEP721",
