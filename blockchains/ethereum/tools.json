@@ -4,23 +4,34 @@
         {
             "chainId":"1",
             "name":"Approve",
-            "url":"https://approval.tptool.pro",
-            "logoURI":"https://assets.1keeper.com/blockchains/arbitrum/token/0x319f865b287fCC10b30d8cE6144e8b6D1b476999/logo.png",
+            "locale":{"zh_CN":"授权检测"},
+            "url":"https://tools.1keeper.com/approval?locale=${locale}&chainId=${chainId}&address=${address}&type=${type}",
+            "logoURI":"https://assets.1keeper.com/dapps/icon/approval.png",
             "sorts":0
         },
         {
             "chainId":"1",
-            "name":"BatchTransfer",
-            "url":"https://batchsender.tptool.pro",
-            "logoURI":"https://assets.1keeper.com/blockchains/optimism/token/0x50c5725949a6f0c72e6c4a641f24049a917db0cb/logo.png",
+            "name":"Contract security",
+            "locale":{"zh_CN":"合约检测"},
+            "url":"https://tools.1keeper.com/contract/check?locale=${locale}&chainId=${chainId}&contract=${contract}&type=${type}",
+            "logoURI":"https://assets.1keeper.com/dapps/icon/contract.png",
             "sorts":1
         },
         {
             "chainId":"1",
-            "name":"ContractCheck",
-            "url":"https://tokensecurity.tptool.pro",
-            "logoURI":"https://assets.1keeper.com/blockchains/arbitrum/token/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a/logo.png",
+            "name":"Batch transfer",
+            "locale":{"zh_CN":"批量转账"},
+            "url":"https://tools.1keeper.com/asset/transfer?locale=${locale}&chainId=${chainId}&contract=${contract}&type=${type}",
+            "logoURI":"https://assets.1keeper.com/dapps/icon/transfer.png",
             "sorts":2
+        },
+        {
+            "chainId":"1",
+            "name":"Explorer",
+            "locale":{"zh_CN":"区块浏览器"},
+            "url":"https://etherscan.com/",
+            "logoURI":"https://assets.1keeper.com/dapps/icon/explorer.png",
+            "sorts":3
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "version":"1.0.0",
+    "version":"1.0.2",
     "banner":[
         {"cover": "http://testapi.1keeper.com/banner1.png","url": "https://1keeper.com","sorts": "0"},
         {"cover": "http://testapi.1keeper.com/banner1.png","url": "https://1keeper.com","sorts": "1"}
