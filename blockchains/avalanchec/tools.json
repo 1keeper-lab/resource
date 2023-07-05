@@ -6,7 +6,7 @@
             "name":"Approve",
             "locale":"{\"zh_CN\":\"授权检测\"}",
             "url":"https://tools.1keeper.com/approval?locale=${locale}&chainId=${chainId}&address=${address}&type=${type}",
-            "logoURI":"https://assets.1keeper.com/dapps/icon/approval.png",
+            "logoURI":"https://res.1keeper.com/dapps/icon/approval.png",
             "sorts":0
         },
         {
@@ -14,7 +14,7 @@
             "name":"Contract security",
             "locale":"{\"zh_CN\":\"合约检测\"}",
             "url":"https://tools.1keeper.com/contract/check?locale=${locale}&chainId=${chainId}&contract=${contract}&type=${type}",
-            "logoURI":"https://assets.1keeper.com/dapps/icon/contract.png",
+            "logoURI":"https://res.1keeper.com/dapps/icon/contract.png",
             "sorts":1
         },
         {
@@ -22,7 +22,7 @@
             "name":"Batch transfer",
             "locale":"{\"zh_CN\":\"批量转账\"}",
             "url":"https://tools.1keeper.com/asset/transfer?locale=${locale}&chainId=${chainId}&contract=${contract}&type=${type}",
-            "logoURI":"https://assets.1keeper.com/dapps/icon/transfer.png",
+            "logoURI":"https://res.1keeper.com/dapps/icon/transfer.png",
             "sorts":2
         },
         {
@@ -30,7 +30,7 @@
             "name":"Explorer",
             "locale":"{\"zh_CN\":\"区块浏览器\"}",
             "url":"https://avascan.info/",
-            "logoURI":"https://assets.1keeper.com/dapps/icon/explorer.png",
+            "logoURI":"https://res.1keeper.com/dapps/icon/explorer.png",
             "sorts":3
         }
     ]
