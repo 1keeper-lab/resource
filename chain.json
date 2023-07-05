@@ -1,5 +1,5 @@
 {
-    "version":"1.0.2",
+    "version":"1.0.0",
     "deletes":[],
     "actives":[
         {
@@ -17,7 +17,7 @@
             "rpcs":["rpcs.json?v=1"],
             "tokens":["tokens.json?v=1"],
             "nfts":["nfts.json?v=1"],
-            "tools":["tools.json?v=2"]
+            "tools":["tools.json?v=1"]
         },
         {
             "sorts":1,
@@ -34,7 +34,7 @@
             "rpcs":["rpcs.json?v=1"],
             "tokens":["tokens.json?v=1"],
             "nfts":["nfts.json?v=1"],
-            "tools":["tools.json?v=2"]
+            "tools":["tools.json?v=1"]
         },
         {
             "sorts":2,
@@ -51,7 +51,7 @@
             "rpcs":["rpcs.json?v=1"],
             "tokens":["tokens.json?v=1"],
             "nfts":["nfts.json?v=1"],
-            "tools":["tools.json?v=2"]
+            "tools":["tools.json?v=1"]
         },
         {
             "sorts":3,
@@ -68,7 +68,7 @@
             "rpcs":["rpcs.json?v=1"],
             "tokens":["tokens.json?v=1"],
             "nfts":["nfts.json?v=1"],
-            "tools":["tools.json?v=2"]
+            "tools":["tools.json?v=1"]
         },
         {
             "sorts":4,
@@ -85,7 +85,7 @@
             "rpcs":["rpcs.json?v=1"],
             "tokens":["tokens.json?v=1"],
             "nfts":["nfts.json?v=1"],
-            "tools":["tools.json?v=2"]
+            "tools":["tools.json?v=1"]
         },
         {
             "sorts":5,
@@ -102,7 +102,7 @@
             "rpcs":["rpcs.json?v=1"],
             "tokens":["tokens.json?v=1"],
             "nfts":["nfts.json?v=1"],
-            "tools":["tools.json?v=2"]
+            "tools":["tools.json?v=1"]
         },
         {
             "sorts":6,
@@ -119,7 +119,7 @@
             "rpcs":["rpcs.json?v=1"],
             "tokens":["tokens.json?v=1"],
             "nfts":["nfts.json?v=1"],
-            "tools":["tools.json?v=2"]
+            "tools":["tools.json?v=1"]
         }
     ]
 }
