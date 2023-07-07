@@ -1,5 +1,5 @@
 {
-    "version":"1.0.2",
+    "version":"1.0.3",
     "deletes":[],
     "actives":[
         {
@@ -94,7 +94,7 @@
             "symbol": "FTM",
             "decimal": 18,
             "explore": "https://ftmscan.com/",
-            "muticall": "0x38362244eB306d62D3707AeC67BCE8D55FdcE5b7,0x63D1E90f352D65D72e0Fcf273a57F8BEF4cE8688",
+            "muticall": "0x38362244eB306d62D3707AeC67BCE8D55FdcE5b7,0xB7051D8825DCCf3a2FdE601739eE558790EfBDA8",
             "type": "EVM",
             "token": "FRC20",
             "nft": "FRC721",
