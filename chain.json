@@ -60,7 +60,7 @@
             "symbol": "ETH",
             "decimal": 18,
             "explore": "https://optimistic.etherscan.io/",
-            "muticall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696,0x63D1E90f352D65D72e0Fcf273a57F8BEF4cE8688",
+            "muticall": "0x01C422368D6cDEF5187Fe48a097C4Cc6625197aA,0x9D6e55E3dd9596Cd9E1d71ea081185af3aD13Df0",
             "type": "EVM",
             "token": "ORC20",
             "nft": "ORC721",
