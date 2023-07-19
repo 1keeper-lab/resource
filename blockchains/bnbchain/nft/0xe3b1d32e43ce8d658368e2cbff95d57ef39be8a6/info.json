@@ -1,28 +1,16 @@
 {
-    "name": "Space ID",
-    "website": "https://space.id/",
-    "description": "Welcome to the home of SPACE ID Badges on OpenSea. Discover the best items in this collection.",
-    "explorer": "https://bscscan.com/token/0xE3b1D32e43Ce8d658368e2CBFF95D57Ef39Be8a6",
-    "type": "BEP721",
-    "symbol": "ID",
-    "decimals": 1,
-    "status": "active",
-    "id": "0xE3b1D32e43Ce8d658368e2CBFF95D57Ef39Be8a6",
-    "tags": [
-        "metaverse"
-    ],
-    "links": [
-        {
-            "name": "opensea",
-            "url": "https://opensea.io/collection/space-id-badges-bnb"
-        },
-        {
-            "name":"twitter",
-            "url":"https://twitter.com/SpaceIDProtocol"
-        },
-        {
-            "name":"discord",
-            "url":"https://discord.com/invite/2qrrf79K2A"
-        }
-    ]
+  "name" : "SPACE ID",
+  "website" : null,
+  "description" : null,
+  "explorer" : "https://bscscan.com/token/0xE3b1D32e43Ce8d658368e2CBFF95D57Ef39Be8a6",
+  "type" : "BEP721",
+  "symbol" : "SID",
+  "decimals" : "1",
+  "status" : "active",
+  "id" : "0xE3b1D32e43Ce8d658368e2CBFF95D57Ef39Be8a6",
+  "tags" : null,
+  "links" : [ {
+    "name" : "twitter",
+    "url" : "https://twitter.com/SpaceIDProtocol"
+  } ]
 }
