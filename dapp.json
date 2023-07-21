@@ -1,5 +1,5 @@
 {
-    "version":"1.0.1",
+    "version":"1.0.2",
     "banner":[
         {"cover": "http://testapi1.1keeper.com/banner.png","url": "https://1keeper.com","sorts": "0"},
         {"cover": "http://testapi1.1keeper.com/banner.png","url": "https://1keeper.com","sorts": "1"}
@@ -10,5 +10,5 @@
         "LEND":{"local":[{"en_US":"LEND"},{"zh_CN":"借贷"}],"sorts":"2"},
         "NFT":{"local":[{"en_US":"NFT"},{"zh_CN":"藏品"}],"sorts":"3"}
     },
-    "dapps":["dex.json?v=1","lend.json?v=1","nft.json?v=1,defi.json?v=1"]
+    "dapps":["dex.json?v=2","lend.json?v=2","nft.json?v=2,defi.json?v=2"]
 }
