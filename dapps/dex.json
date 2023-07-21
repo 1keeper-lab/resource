@@ -4,56 +4,92 @@
         {
             "name": "1inch",
             "intro": "The 1inch Network unites decentralized protocols whose synergy enables the most lucrative, fastest, and protected operations in the DeFi space.",
-            "logo": "https://s2.gongft.com/logo/2/1inch.png",
+            "logo": "https://res.1keeper.com/dapps/icon/1inch.png",
             "url": "https://1inch.exchange",
-            "networks": "ethereum,bnbchain,optimism,polygon",
+            "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche,fantom",
             "tags": "DEX,HOT",
             "sorts": "0"
         },
         {
-            "name": "Dydx",
-            "intro": "dYdX is the developer of a leading non-custodial decentralized exchange (DEX) focused on advanced crypto products — namely derivatives like crypto perpertuals. dYdX runs on audited smart contracts on blockchains like Ethereum, which eliminates the need of trusted intermediaries.",
-            "logo": "https://s2.gongft.com/logo/1/dydxexchange.png",
-            "url": "https://trade.dydx.exchange/",
-            "networks": "ethereum",
+            "name": "Uniswap",
+            "intro": "Swap, earn, and build on the leading decentralized crypto trading protocol.",
+            "logo": "https://res.1keeper.com/dapps/icon/uniswap.png",
+            "url": "https://uniswap.org",
+            "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche",
             "tags": "DEX,HOT",
             "sorts": "1"
         },
         {
-            "name": "Synthetix",
-            "intro": "Synthetix is building a decentralized liquidity provisioning protocol that any protocol can tap into for various purposes. Its deep liquidity and low fees serve as a backend for many exciting protocols on both Optimism and Ethereum.",
-            "logo": "https://s2.gongft.com/logo/2/synthetix.png",
-            "url": "https://synthetix.exchange/",
-            "networks": "ethereum",
+            "name": "PancakeSwap",
+            "intro": "PancakeSwap is an automated market maker (AMM) — a decentralized finance (DeFi) application that allows users to exchange tokens, providing liquidity via farming and earning fees in return.",
+            "logo": "https://res.1keeper.com/dapps/icon/pancakeswap.png",
+            "url": "https://pancakeswap.finance",
+            "networks": "ethereum,bnbchain,polygon",
             "tags": "DEX,HOT",
             "sorts": "2"
         },
         {
-            "name": "Cream",
-            "intro": "Cream Finance is a decentralized DeFi lending protocol for individuals, institutions and protocols to access financial services. Part of the yearn.finance ecosystem, C.R.E.A.M. Finance is a permissionless, open source and blockchain agnostic protocol serving users on Ethereum, Binance Smart Chain Polygon and Fantom.",
-            "logo": "https://s2.gongft.com/logo/2/cream.png",
-            "url": "https://cream.finance/",
-            "networks": "ethereum",
+            "name": "GMX",
+            "intro": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, leverage trading (spreads, funding fees & liquidations) and asset rebalancing.",
+            "logo": "https://res.1keeper.com/dapps/icon/gmx.png",
+            "url": "https://gmx.io",
+            "networks": "arbitrum,avalanche",
             "tags": "DEX,HOT",
             "sorts": "3"
         },
         {
-            "name": "MakerDAO",
-            "intro": "Maker (MKR) is the governance token of the MakerDAO and Maker Protocol — respectively a decentralized organization and a software platform, both based on the Ethereum blockchain — that allows users to issue and manage the DAI stablecoin.",
-            "logo": "https://s2.gongft.com/logo/2/makerdao.png",
-            "url": "https://makerdao.com/",
-            "networks": "ethereum",
+            "name": "Sushi",
+            "intro": "SushiSwap (SUSHI) is an example of an automated market maker (AMM). An increasingly popular tool among cryptocurrency users, AMMs are decentralized exchanges which use smart contracts to create markets for any given pair of tokens.",
+            "logo": "https://res.1keeper.com/dapps/icon/sushi.png",
+            "url": "https://www.sushi.com",
+            "networks": "ethereum,bnbchain,optimism,polygon,arbitrum,avalanche,fantom",
             "tags": "DEX,HOT",
             "sorts": "4"
-        },        
+        },
+        {
+            "name": "DODO",
+            "intro": "DODO is a DeFi protocoldecentralized finance (DeFi) protocol and on-chain liquidity provider whose unique proactive market maker (PMM) algorithm aims to offer better liquidity and price stability than automated market makers (AMM).",
+            "logo": "https://res.1keeper.com/dapps/icon/dodo.png",
+            "url": "https://dodoex.io",
+            "networks": "ethereum,bnbchain,polygon,arbitrum",
+            "tags": "DEX,HOT",
+            "sorts": "5"
+        },
+        {
+            "name": "Synthetix",
+            "intro": "Synthetix is building a decentralized liquidity provisioning protocol that any protocol can tap into for various purposes. Its deep liquidity and low fees serve as a backend for many exciting protocols on both Optimism and Ethereum.",
+            "logo": "https://res.1keeper.com/dapps/icon/synthetix.png",
+            "url": "https://synthetix.io",
+            "networks": "ethereum,optimism",
+            "tags": "DEX,HOT",
+            "sorts": "6"
+        },     
         {
             "name": "Balancer",
             "intro": "Balancer is an automated market maker (AMM) that was developed on the Ethereum blockchain and launched in March 2020.",
-            "logo": "https://s2.gongft.com/logo/1/balancer.png",
-            "url": "https://balancer.finance/",
+            "logo": "https://res.1keeper.com/dapps/icon/balancer.png",
+            "url": "https://balancer.finance",
             "networks": "ethereum",
             "tags": "DEX,HOT",
-            "sorts": "5"
+            "sorts": "6"
+        },     
+        {
+            "name": "QuickSwap",
+            "intro": "QuickSwap is a fork of the originator of Automated Market Makers in the now rapidly expanding DeFi sector of the Cryptocurrency industry, Uniswap.",
+            "logo": "https://res.1keeper.com/dapps/icon/quickswap.png",
+            "url": "https://quickswap.exchange",
+            "networks": "polygon",
+            "tags": "DEX,HOT",
+            "sorts": "7"
+        },     
+        {
+            "name": "Velodrome",
+            "intro": "Velodrome is an AMM designed as the central trading and liquidity marketplace on Optimism Network.",
+            "logo": "https://res.1keeper.com/dapps/icon/velodrome.png",
+            "url": "https://velodrome.finance",
+            "networks": "optimism",
+            "tags": "DEX,HOT",
+            "sorts": "9"
         }
     ]
 }
